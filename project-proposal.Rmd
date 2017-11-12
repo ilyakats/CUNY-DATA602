@@ -1,0 +1,13 @@
+###Final Project Proposal
+
+CUNY SPS / MSDS / Fall 2017 / DATA 602
+
+**TEAM:** Pavan Akula, Nnaemezue Obi-eyisi, Ilya Kats
+
+**OBJECTIVE:** The goal of the project is prediction of the outcome of a soccer match. We aim to identify best features to use for analysis and prediction. Professional bookies reach about 53% precision with their predictions and our goal is similar results. Based on project's progress we may look into several criteria - winning percentage, goal differential, home vs. away performance. 
+
+Sports betting is a big business and soccer is the most popular sport in the world. Reliable predicting is a lucrative proposition not only to the sports betting industry, but also to the organizations looking to build a winning team.
+
+**DATA:** We plan to use sports data provided via Kaggle (https://www.kaggle.com/hugomathien/soccer). It covers over 25K matches, 10K players, from 2008 to 2016 for 11 European countries. Analysis methods are to be decided. 
+
+**OUTPUT:** Output may include an application to compare features, to provide past performance, and to give ability of predict results of future matches (Word Cup 2018 here we come!)
